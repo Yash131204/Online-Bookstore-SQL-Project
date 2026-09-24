@@ -68,6 +68,6 @@ online-bookstore-sql-project/
 
 The main objective of this project is to practice SQL and analyze an Online Book Store database using PostgreSQL.
 
-## 👨‍💻 Author - Yash Dashetwar
+## 👨‍💻 Author
 
 **Yash Dashetwar**
