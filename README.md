@@ -24,8 +24,6 @@ The tables contain common columns that are used to establish relationships betwe
 
 ### Basic SQL Queries
 
-The project includes queries to:
-
 1. Retrieve books from the Fiction genre
 2. Find books published after 1950
 3. List customers from Canada
@@ -39,8 +37,6 @@ The project includes queries to:
 11. Calculate total revenue generated from orders
 
 ### Advanced SQL Queries
-
-The project also includes queries to:
 
 1. Calculate total books sold for each genre
 2. Find the average price of Fantasy books
